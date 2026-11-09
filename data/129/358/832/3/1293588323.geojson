@@ -72,7 +72,7 @@
         "wk:page":"La_Trinidad%2C_Estel%C3%AD"
     },
     "wof:country":"NI",
-    "wof:geomhash":"af397e2d5c6f109b4664cb2c01287111",
+    "wof:geomhash":"788d0430b92853ee451ae4e8c366eb78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,5 +98,5 @@
     -86.23534000000002,
     12.96881
 ],
-  "geometry": {"coordinates":[-86.23534000000002,12.96881],"type":"Point"}
+  "geometry": {"coordinates":[-86.23534,12.96881],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"San_Pedro_de_L%C3%B3vago"
     },
     "wof:country":"NI",
-    "wof:geomhash":"278cfc7f3681a30b8846315fbba11e05",
+    "wof:geomhash":"74be194c1819cb2396dc0ab74b551918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -85.11523000000003,
     12.12943
 ],
-  "geometry": {"coordinates":[-85.11523000000003,12.12943],"type":"Point"}
+  "geometry": {"coordinates":[-85.11523,12.12943],"type":"Point"}
 }

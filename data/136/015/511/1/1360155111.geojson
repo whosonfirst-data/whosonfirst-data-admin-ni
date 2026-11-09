@@ -41,7 +41,7 @@
         "gn:id":3617516
     },
     "wof:country":"NI",
-    "wof:geomhash":"ebe495fe0bcbd29d278e04e235c17ee9",
+    "wof:geomhash":"3401a350c08307a281095ae52971cb88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -85.81794000000002,
     11.36746
 ],
-  "geometry": {"coordinates":[-85.81794000000002,11.36746],"type":"Point"}
+  "geometry": {"coordinates":[-85.81794,11.36746],"type":"Point"}
 }

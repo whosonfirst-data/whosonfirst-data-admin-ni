@@ -48,7 +48,7 @@
         "wk:page":"Tasbapauni"
     },
     "wof:country":"NI",
-    "wof:geomhash":"6dfe614efc685c89866100eb30c3e590",
+    "wof:geomhash":"aeb9b33ab898fabe757e98cf237c8009",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -83.54489000000002,
     12.67301
 ],
-  "geometry": {"coordinates":[-83.54489000000002,12.67301],"type":"Point"}
+  "geometry": {"coordinates":[-83.54489,12.67301],"type":"Point"}
 }
