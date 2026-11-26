@@ -1,0 +1,74 @@
+{
+  "id": 9895050519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.83691,13.36398,-85.83691,13.36398",
+    "geom:latitude":13.36398,
+    "geom:longitude":-85.83691,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3619753: name \"El Guapinol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3619753"
+        },
+        {
+            "citation":"GeoNames populated place 3619753: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3619753"
+        },
+        {
+            "citation":"GeoNames populated place 3619753: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3619753"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693687 (Las Praderas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619753
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a5579cbd493ddcdfcaee80c11424ae4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693687,
+            "locality_id":9895050519,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050519,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Guapinol",
+    "wof:parent_id":1108693687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.83691,
+    13.36398,
+    -85.83691,
+    13.36398
+],
+  "geometry": {"coordinates":[-85.83691,13.36398],"type":"Point"}
+}

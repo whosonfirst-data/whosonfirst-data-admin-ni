@@ -1,0 +1,74 @@
+{
+  "id": 9895050522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.62117,12.7113,-85.62117,12.7113",
+    "geom:latitude":12.7113,
+    "geom:longitude":-85.62117,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3620070: name \"El Zompopo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3620070"
+        },
+        {
+            "citation":"GeoNames populated place 3620070: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3620070"
+        },
+        {
+            "citation":"GeoNames populated place 3620070: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3620070"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421200103 (Muy Muy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675513,
+        102191575,
+        421200103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620070
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"62b2de11b59bde25a7bb76c43af6e795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200103,
+            "locality_id":9895050522,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":9895050522,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Zompopo",
+    "wof:parent_id":421200103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.62117,
+    12.7113,
+    -85.62117,
+    12.7113
+],
+  "geometry": {"coordinates":[-85.62117,12.7113],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050468,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.07563,13.13529,-86.07563,13.13529",
+    "geom:latitude":13.13529,
+    "geom:longitude":-86.07563,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3615612: name \"Saraguasca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3615612"
+        },
+        {
+            "citation":"GeoNames populated place 3615612: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3615612"
+        },
+        {
+            "citation":"GeoNames populated place 3615612: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3615612"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693695 (Jinotega), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615612
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"65beb3c74ee225dc301b7351be40a76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":9895050468,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050468,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Saraguasca",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.07563,
+    13.13529,
+    -86.07563,
+    13.13529
+],
+  "geometry": {"coordinates":[-86.07563,13.13529],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050572,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.27897,12.09121,-86.27897,12.09121",
+    "geom:latitude":12.09121,
+    "geom:longitude":-86.27897,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12037220: name \"San Roberto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12037220"
+        },
+        {
+            "citation":"GeoNames populated place 12037220: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12037220"
+        },
+        {
+            "citation":"GeoNames populated place 12037220: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12037220"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421180305 (Managua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675495,
+        102191575,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12037220
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fa058a5fd065ad3414152d12e83422c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":9895050572,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":9895050572,
+    "wof:lastmodified":1795735085,
+    "wof:name":"San Roberto",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27897,
+    12.09121,
+    -86.27897,
+    12.09121
+],
+  "geometry": {"coordinates":[-86.27897,12.09121],"type":"Point"}
+}

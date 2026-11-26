@@ -1,0 +1,74 @@
+{
+  "id": 9895050552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.0882,12.2255,-86.0882,12.2255",
+    "geom:latitude":12.2255,
+    "geom:longitude":-86.0882,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11675852: name \"Ciudadela San Mart\u00edn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11675852"
+        },
+        {
+            "citation":"GeoNames populated place 11675852: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11675852"
+        },
+        {
+            "citation":"GeoNames populated place 11675852: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11675852"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175427 (Tipitapa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675495,
+        102191575,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11675852
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4c969866f4e83c874797873c3fb5d37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":9895050552,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":9895050552,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Ciudadela San Mart\u00edn",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.0882,
+    12.2255,
+    -86.0882,
+    12.2255
+],
+  "geometry": {"coordinates":[-86.0882,12.2255],"type":"Point"}
+}

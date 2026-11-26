@@ -1,0 +1,74 @@
+{
+  "id": 9895050513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.90412,13.12626,-85.90412,13.12626",
+    "geom:latitude":13.12626,
+    "geom:longitude":-85.90412,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3619389: name \"Valle El Salto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3619389"
+        },
+        {
+            "citation":"GeoNames populated place 3619389: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3619389"
+        },
+        {
+            "citation":"GeoNames populated place 3619389: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3619389"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693695 (Jinotega), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619389
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ccc01ad14b8c62639fb04f05e5f289a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":9895050513,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050513,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Valle El Salto",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.90412,
+    13.12626,
+    -85.90412,
+    13.12626
+],
+  "geometry": {"coordinates":[-85.90412,13.12626],"type":"Point"}
+}

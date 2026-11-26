@@ -1,0 +1,74 @@
+{
+  "id": 9895050509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.70662,12.32806,-85.70662,12.32806",
+    "geom:latitude":12.32806,
+    "geom:longitude":-85.70662,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3619162: name \"Monte Fresco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3619162"
+        },
+        {
+            "citation":"GeoNames populated place 3619162: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3619162"
+        },
+        {
+            "citation":"GeoNames populated place 3619162: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3619162"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693839 (San Lorenzo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675521,
+        102191575,
+        1108693839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619162
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fe36444e4eedca0d50b8940bbc1d516d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693839,
+            "locality_id":9895050509,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":9895050509,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Monte Fresco",
+    "wof:parent_id":1108693839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.70662,
+    12.32806,
+    -85.70662,
+    12.32806
+],
+  "geometry": {"coordinates":[-85.70662,12.32806],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.9531,11.87167,-83.9531,11.87167",
+    "geom:latitude":11.87167,
+    "geom:longitude":-83.9531,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3616515: name \"Santa Elisa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3616515"
+        },
+        {
+            "citation":"GeoNames populated place 3616515: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3616515"
+        },
+        {
+            "citation":"GeoNames populated place 3616515: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3616515"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421186279 (Bluefields), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675467,
+        102191575,
+        421186279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616515
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e3aed5ed3d7ed95ea7e3ed59b3030565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421186279,
+            "locality_id":9895050482,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":9895050482,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Santa Elisa",
+    "wof:parent_id":421186279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.9531,
+    11.87167,
+    -83.9531,
+    11.87167
+],
+  "geometry": {"coordinates":[-83.9531,11.87167],"type":"Point"}
+}

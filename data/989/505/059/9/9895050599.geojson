@@ -1,0 +1,74 @@
+{
+  "id": 9895050599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.66974,11.72795,-84.66974,11.72795",
+    "geom:latitude":11.72795,
+    "geom:longitude":-84.66974,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631907: name \"Colonia Villa \u00c1lvarez\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631907"
+        },
+        {
+            "citation":"GeoNames populated place 13631907: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631907"
+        },
+        {
+            "citation":"GeoNames populated place 13631907: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631907"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693865 (El Almendro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675465,
+        102191575,
+        1108693865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631907
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2f15cc2ca4aead99c23b8cdc68e77192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693865,
+            "locality_id":9895050599,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":9895050599,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Colonia Villa \u00c1lvarez",
+    "wof:parent_id":1108693865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.66974,
+    11.72795,
+    -84.66974,
+    11.72795
+],
+  "geometry": {"coordinates":[-84.66974,11.72795],"type":"Point"}
+}

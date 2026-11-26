@@ -1,0 +1,74 @@
+{
+  "id": 9895050467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.62875,14.00849,-85.62875,14.00849",
+    "geom:latitude":14.00849,
+    "geom:longitude":-85.62875,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3612889: name \"Somotincito\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3612889"
+        },
+        {
+            "citation":"GeoNames populated place 3612889: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3612889"
+        },
+        {
+            "citation":"GeoNames populated place 3612889: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3612889"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421200107 (Wiwili), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        421200107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612889
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1a9ae1c7b2e2de90a7f01b6193b23dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200107,
+            "locality_id":9895050467,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050467,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Somotincito",
+    "wof:parent_id":421200107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.62875,
+    14.00849,
+    -85.62875,
+    14.00849
+],
+  "geometry": {"coordinates":[-85.62875,14.00849],"type":"Point"}
+}

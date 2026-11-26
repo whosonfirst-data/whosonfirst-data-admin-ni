@@ -1,0 +1,74 @@
+{
+  "id": 9895050543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.10242,12.04711,-86.10242,12.04711",
+    "geom:latitude":12.04711,
+    "geom:longitude":-86.10242,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11675820: name \"Los Altos de Masaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11675820"
+        },
+        {
+            "citation":"GeoNames populated place 11675820: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11675820"
+        },
+        {
+            "citation":"GeoNames populated place 11675820: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11675820"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693783 (Nindiri), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675499,
+        102191575,
+        1108693783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11675820
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4fd45c2684cb9265bc93c38784cc4856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693783,
+            "locality_id":9895050543,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":9895050543,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Los Altos de Masaya",
+    "wof:parent_id":1108693783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.10242,
+    12.04711,
+    -86.10242,
+    12.04711
+],
+  "geometry": {"coordinates":[-86.10242,12.04711],"type":"Point"}
+}

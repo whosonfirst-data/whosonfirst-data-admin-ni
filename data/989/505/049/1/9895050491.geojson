@@ -1,0 +1,74 @@
+{
+  "id": 9895050491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.62048,14.64432,-83.62048,14.64432",
+    "geom:latitude":14.64432,
+    "geom:longitude":-83.62048,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3617732: name \"Maruta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3617732"
+        },
+        {
+            "citation":"GeoNames populated place 3617732: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3617732"
+        },
+        {
+            "citation":"GeoNames populated place 3617732: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3617732"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421201657 (Puerto Cabezas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675485,
+        102191575,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617732
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fbb874f573860fed03379727b57d4cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":9895050491,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":9895050491,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Maruta",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.62048,
+    14.64432,
+    -83.62048,
+    14.64432
+],
+  "geometry": {"coordinates":[-83.62048,14.64432],"type":"Point"}
+}

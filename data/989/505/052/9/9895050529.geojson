@@ -1,0 +1,74 @@
+{
+  "id": 9895050529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.30261,12.51089,-85.30261,12.51089",
+    "geom:latitude":12.51089,
+    "geom:longitude":-85.30261,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3620861: name \"Arenitas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3620861"
+        },
+        {
+            "citation":"GeoNames populated place 3620861: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3620861"
+        },
+        {
+            "citation":"GeoNames populated place 3620861: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3620861"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189523 (Camoapa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675521,
+        102191575,
+        421189523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620861
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"34d5623dba5f6a801d1723805689ebec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189523,
+            "locality_id":9895050529,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":9895050529,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Arenitas",
+    "wof:parent_id":421189523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.30261,
+    12.51089,
+    -85.30261,
+    12.51089
+],
+  "geometry": {"coordinates":[-85.30261,12.51089],"type":"Point"}
+}

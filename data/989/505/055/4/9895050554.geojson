@@ -1,0 +1,74 @@
+{
+  "id": 9895050554,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.64827,11.91781,-84.64827,11.91781",
+    "geom:latitude":11.91781,
+    "geom:longitude":-84.64827,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911379: name \"El Coral\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911379"
+        },
+        {
+            "citation":"GeoNames populated place 11911379: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911379"
+        },
+        {
+            "citation":"GeoNames populated place 11911379: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911379"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693857 (Villa Sandino), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675525,
+        102191575,
+        1108693857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911379
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8912e33bf8b3cc40de8a6ad79e5d32ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693857,
+            "locality_id":9895050554,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":9895050554,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Coral",
+    "wof:parent_id":1108693857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.64827,
+    11.91781,
+    -84.64827,
+    11.91781
+],
+  "geometry": {"coordinates":[-84.64827,11.91781],"type":"Point"}
+}

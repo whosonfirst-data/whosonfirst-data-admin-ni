@@ -1,0 +1,74 @@
+{
+  "id": 9895050557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.55817,13.23695,-85.55817,13.23695",
+    "geom:latitude":13.23695,
+    "geom:longitude":-85.55817,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911832: name \"Rancho Grande\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911832"
+        },
+        {
+            "citation":"GeoNames populated place 11911832: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911832"
+        },
+        {
+            "citation":"GeoNames populated place 11911832: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911832"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693817 (Rancho Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675513,
+        102191575,
+        1108693817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911832
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a3cf85c9586a9ee0ea9523126a8dd536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693817,
+            "locality_id":9895050557,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":9895050557,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Rancho Grande",
+    "wof:parent_id":1108693817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.55817,
+    13.23695,
+    -85.55817,
+    13.23695
+],
+  "geometry": {"coordinates":[-85.55817,13.23695],"type":"Point"}
+}

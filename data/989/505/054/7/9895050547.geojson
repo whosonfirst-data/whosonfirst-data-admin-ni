@@ -1,0 +1,74 @@
+{
+  "id": 9895050547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.77874,12.75029,-86.77874,12.75029",
+    "geom:latitude":12.75029,
+    "geom:longitude":-86.77874,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11675828: name \"San Juan de Las Pencas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11675828"
+        },
+        {
+            "citation":"GeoNames populated place 11675828: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11675828"
+        },
+        {
+            "citation":"GeoNames populated place 11675828: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11675828"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693743 (Villanueva), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675503,
+        102191575,
+        1108693743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11675828
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"068eb60d9e795f80249fce5298066ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693743,
+            "locality_id":9895050547,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":9895050547,
+    "wof:lastmodified":1795735085,
+    "wof:name":"San Juan de Las Pencas",
+    "wof:parent_id":1108693743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.77874,
+    12.75029,
+    -86.77874,
+    12.75029
+],
+  "geometry": {"coordinates":[-86.77874,12.75029],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.94466,13.75646,-84.94466,13.75646",
+    "geom:latitude":13.75646,
+    "geom:longitude":-84.94466,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3619719: name \"El Hormiguero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3619719"
+        },
+        {
+            "citation":"GeoNames populated place 3619719: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3619719"
+        },
+        {
+            "citation":"GeoNames populated place 3619719: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3619719"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693679 (Siuna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675485,
+        102191575,
+        1108693679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619719
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"52d5cecd6a291c99cc218be5121c9665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693679,
+            "locality_id":9895050518,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":9895050518,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Hormiguero",
+    "wof:parent_id":1108693679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.94466,
+    13.75646,
+    -84.94466,
+    13.75646
+],
+  "geometry": {"coordinates":[-84.94466,13.75646],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.29779,12.08103,-86.29779,12.08103",
+    "geom:latitude":12.08103,
+    "geom:longitude":-86.29779,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12037213: name \"La Desear\u00eda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12037213"
+        },
+        {
+            "citation":"GeoNames populated place 12037213: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12037213"
+        },
+        {
+            "citation":"GeoNames populated place 12037213: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12037213"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421180305 (Managua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675495,
+        102191575,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12037213
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"648f128ccf3eb9eaf8f5015ad00a7ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":9895050569,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":9895050569,
+    "wof:lastmodified":1795735085,
+    "wof:name":"La Desear\u00eda",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.29779,
+    12.08103,
+    -86.29779,
+    12.08103
+],
+  "geometry": {"coordinates":[-86.29779,12.08103],"type":"Point"}
+}
