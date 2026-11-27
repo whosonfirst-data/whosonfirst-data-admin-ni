@@ -1,0 +1,74 @@
+{
+  "id": 9895050535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.29677,11.88514,-85.29677,11.88514",
+    "geom:latitude":11.88514,
+    "geom:longitude":-85.29677,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8036029: name \"Los G\u00f3mez\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8036029"
+        },
+        {
+            "citation":"GeoNames populated place 8036029: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8036029"
+        },
+        {
+            "citation":"GeoNames populated place 8036029: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8036029"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693859 (Acoyapa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675525,
+        102191575,
+        1108693859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036029
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"cca34d5e08faa8ea8b17fa8040507f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693859,
+            "locality_id":9895050535,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":9895050535,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Los G\u00f3mez",
+    "wof:parent_id":1108693859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.29677,
+    11.88514,
+    -85.29677,
+    11.88514
+],
+  "geometry": {"coordinates":[-85.29677,11.88514],"type":"Point"}
+}

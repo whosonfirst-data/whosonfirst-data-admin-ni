@@ -1,0 +1,74 @@
+{
+  "id": 9895050563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.31812,12.05186,-86.31812,12.05186",
+    "geom:latitude":12.05186,
+    "geom:longitude":-86.31812,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12037207: name \"El Ca\u00f1\u00f3n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12037207"
+        },
+        {
+            "citation":"GeoNames populated place 12037207: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12037207"
+        },
+        {
+            "citation":"GeoNames populated place 12037207: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12037207"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421180305 (Managua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675495,
+        102191575,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12037207
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"52477929f91a41cbe228dec934b20cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":9895050563,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":9895050563,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Ca\u00f1\u00f3n",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.31812,
+    12.05186,
+    -86.31812,
+    12.05186
+],
+  "geometry": {"coordinates":[-86.31812,12.05186],"type":"Point"}
+}

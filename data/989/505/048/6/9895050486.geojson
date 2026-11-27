@@ -1,0 +1,74 @@
+{
+  "id": 9895050486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.67378,14.30333,-83.67378,14.30333",
+    "geom:latitude":14.30333,
+    "geom:longitude":-83.67378,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3617125: name \"Panua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3617125"
+        },
+        {
+            "citation":"GeoNames populated place 3617125: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3617125"
+        },
+        {
+            "citation":"GeoNames populated place 3617125: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3617125"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421201657 (Puerto Cabezas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675485,
+        102191575,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617125
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"63555c539c700d4bdb1445a986a01e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":9895050486,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":9895050486,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Panua",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.67378,
+    14.30333,
+    -83.67378,
+    14.30333
+],
+  "geometry": {"coordinates":[-83.67378,14.30333],"type":"Point"}
+}

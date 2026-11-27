@@ -1,0 +1,74 @@
+{
+  "id": 9895050512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8025,13.24756,-85.8025,13.24756",
+    "geom:latitude":13.24756,
+    "geom:longitude":-85.8025,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3619385: name \"El Sarayal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3619385"
+        },
+        {
+            "citation":"GeoNames populated place 3619385: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3619385"
+        },
+        {
+            "citation":"GeoNames populated place 3619385: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3619385"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693695 (Jinotega), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619385
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c78e2f54594dd52ba39f190e47cac3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":9895050512,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050512,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Sarayal",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.8025,
+    13.24756,
+    -85.8025,
+    13.24756
+],
+  "geometry": {"coordinates":[-85.8025,13.24756],"type":"Point"}
+}

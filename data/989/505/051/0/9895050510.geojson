@@ -1,0 +1,74 @@
+{
+  "id": 9895050510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.21582,12.07459,-86.21582,12.07459",
+    "geom:latitude":12.07459,
+    "geom:longitude":-86.21582,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3619205: name \"Comarca Esquipulas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3619205"
+        },
+        {
+            "citation":"GeoNames populated place 3619205: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3619205"
+        },
+        {
+            "citation":"GeoNames populated place 3619205: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3619205"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421180305 (Managua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675495,
+        102191575,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619205
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"aeeb5aed8a31f05203fc45a6c8ee0e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":9895050510,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":9895050510,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Comarca Esquipulas",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.21582,
+    12.07459,
+    -86.21582,
+    12.07459
+],
+  "geometry": {"coordinates":[-86.21582,12.07459],"type":"Point"}
+}

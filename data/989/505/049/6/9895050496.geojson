@@ -1,0 +1,74 @@
+{
+  "id": 9895050496,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.06585,13.47791,-86.06585,13.47791",
+    "geom:latitude":13.47791,
+    "geom:longitude":-86.06585,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3618343: name \"El Caracol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3618343"
+        },
+        {
+            "citation":"GeoNames populated place 3618343: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3618343"
+        },
+        {
+            "citation":"GeoNames populated place 3618343: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3618343"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693689 (San Sebastian De Yali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618343
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f69715c1714e9dda661c8135fc7c38e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693689,
+            "locality_id":9895050496,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050496,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Caracol",
+    "wof:parent_id":1108693689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.06585,
+    13.47791,
+    -86.06585,
+    13.47791
+],
+  "geometry": {"coordinates":[-86.06585,13.47791],"type":"Point"}
+}

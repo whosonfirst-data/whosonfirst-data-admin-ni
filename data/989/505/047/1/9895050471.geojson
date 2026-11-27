@@ -1,0 +1,74 @@
+{
+  "id": 9895050471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.38976,11.66293,-84.38976,11.66293",
+    "geom:latitude":11.66293,
+    "geom:longitude":-84.38976,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3615645: name \"Colonia Agr\u00edcola Yolaina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3615645"
+        },
+        {
+            "citation":"GeoNames populated place 3615645: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3615645"
+        },
+        {
+            "citation":"GeoNames populated place 3615645: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3615645"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421192911 (Nueva Guinea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675467,
+        102191575,
+        421192911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615645
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ea5509c24671382f382953f65c46d63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421192911,
+            "locality_id":9895050471,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":9895050471,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Colonia Agr\u00edcola Yolaina",
+    "wof:parent_id":421192911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.38976,
+    11.66293,
+    -84.38976,
+    11.66293
+],
+  "geometry": {"coordinates":[-84.38976,11.66293],"type":"Point"}
+}

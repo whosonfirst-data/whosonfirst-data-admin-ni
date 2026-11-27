@@ -1,0 +1,74 @@
+{
+  "id": 9895050474,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.83504,13.31314,-85.83504,13.31314",
+    "geom:latitude":13.31314,
+    "geom:longitude":-85.83504,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3615876: name \"Veracruz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3615876"
+        },
+        {
+            "citation":"GeoNames populated place 3615876: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3615876"
+        },
+        {
+            "citation":"GeoNames populated place 3615876: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3615876"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693695 (Jinotega), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615876
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"552a356535916f0b70c24aae1913b9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":9895050474,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050474,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Veracruz",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.83504,
+    13.31314,
+    -85.83504,
+    13.31314
+],
+  "geometry": {"coordinates":[-85.83504,13.31314],"type":"Point"}
+}

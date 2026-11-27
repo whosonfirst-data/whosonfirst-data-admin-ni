@@ -1,0 +1,74 @@
+{
+  "id": 9895050480,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.02397,13.51455,-86.02397,13.51455",
+    "geom:latitude":13.51455,
+    "geom:longitude":-86.02397,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3616413: name \"Santa Rita\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3616413"
+        },
+        {
+            "citation":"GeoNames populated place 3616413: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3616413"
+        },
+        {
+            "citation":"GeoNames populated place 3616413: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3616413"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693687 (Las Praderas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616413
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1d8ca8daeaed94b17481ea504a9d8175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693687,
+            "locality_id":9895050480,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050480,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":1108693687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.02397,
+    13.51455,
+    -86.02397,
+    13.51455
+],
+  "geometry": {"coordinates":[-86.02397,13.51455],"type":"Point"}
+}

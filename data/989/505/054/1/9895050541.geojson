@@ -1,0 +1,74 @@
+{
+  "id": 9895050541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.99683,12.62939,-86.99683,12.62939",
+    "geom:latitude":12.62939,
+    "geom:longitude":-86.99683,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11675814: name \"Juan Jos\u00e9 Brice\u00f1o\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11675814"
+        },
+        {
+            "citation":"GeoNames populated place 11675814: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11675814"
+        },
+        {
+            "citation":"GeoNames populated place 11675814: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11675814"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421189527 (Chichigalpa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675503,
+        102191575,
+        421189527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11675814
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9f34704df1c49fa40fe7908431a7b6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189527,
+            "locality_id":9895050541,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":9895050541,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Juan Jos\u00e9 Brice\u00f1o",
+    "wof:parent_id":421189527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.99683,
+    12.62939,
+    -86.99683,
+    12.62939
+],
+  "geometry": {"coordinates":[-86.99683,12.62939],"type":"Point"}
+}

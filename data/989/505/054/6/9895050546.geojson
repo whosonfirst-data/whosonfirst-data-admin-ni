@@ -1,0 +1,74 @@
+{
+  "id": 9895050546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.73212,12.35875,-86.73212,12.35875",
+    "geom:latitude":12.35875,
+    "geom:longitude":-86.73212,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11675827: name \"La Concepcion\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11675827"
+        },
+        {
+            "citation":"GeoNames populated place 11675827: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11675827"
+        },
+        {
+            "citation":"GeoNames populated place 11675827: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11675827"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693771 (La Paz Centro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675489,
+        102191575,
+        1108693771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11675827
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"13c44e9728053b1caef26c646c433aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693771,
+            "locality_id":9895050546,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":9895050546,
+    "wof:lastmodified":1795735085,
+    "wof:name":"La Concepcion",
+    "wof:parent_id":1108693771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.73212,
+    12.35875,
+    -86.73212,
+    12.35875
+],
+  "geometry": {"coordinates":[-86.73212,12.35875],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895050578,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.64056,11.23638,-85.64056,11.23638",
+    "geom:latitude":11.23638,
+    "geom:longitude":-85.64056,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12501539: name \"La Calera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12501539"
+        },
+        {
+            "citation":"GeoNames populated place 12501539: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12501539"
+        },
+        {
+            "citation":"GeoNames populated place 12501539: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12501539"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675461 (Rivas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675461,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12501539
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"facfab5404ebd3a20db1e601dd99fdcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "locality_id":9895050578,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":9895050578,
+    "wof:lastmodified":1795735085,
+    "wof:name":"La Calera",
+    "wof:parent_id":85675461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.64056,
+    11.23638,
+    -85.64056,
+    11.23638
+],
+  "geometry": {"coordinates":[-85.64056,11.23638],"type":"Point"}
+}

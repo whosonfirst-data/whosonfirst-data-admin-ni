@@ -1,0 +1,74 @@
+{
+  "id": 9895050581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96157,11.98763,-85.96157,11.98763",
+    "geom:latitude":11.98763,
+    "geom:longitude":-85.96157,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13410954: name \"San Ignacio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13410954"
+        },
+        {
+            "citation":"GeoNames populated place 13410954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13410954"
+        },
+        {
+            "citation":"GeoNames populated place 13410954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13410954"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421197135 (Granada), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675477,
+        102191575,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13410954
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d37c7cdf88aba71f0209655377664330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":9895050581,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":9895050581,
+    "wof:lastmodified":1795735085,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96157,
+    11.98763,
+    -85.96157,
+    11.98763
+],
+  "geometry": {"coordinates":[-85.96157,11.98763],"type":"Point"}
+}

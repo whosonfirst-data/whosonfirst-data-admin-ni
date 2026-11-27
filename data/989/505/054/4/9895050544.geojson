@@ -1,0 +1,74 @@
+{
+  "id": 9895050544,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.86134,12.51367,-86.86134,12.51367",
+    "geom:latitude":12.51367,
+    "geom:longitude":-86.86134,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11675824: name \"San Jose de Telica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11675824"
+        },
+        {
+            "citation":"GeoNames populated place 11675824: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11675824"
+        },
+        {
+            "citation":"GeoNames populated place 11675824: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11675824"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421179703 (Telica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675489,
+        102191575,
+        421179703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11675824
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"74e29b11ae71c49314ffe3cf5bd7fecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179703,
+            "locality_id":9895050544,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":9895050544,
+    "wof:lastmodified":1795735085,
+    "wof:name":"San Jose de Telica",
+    "wof:parent_id":421179703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.86134,
+    12.51367,
+    -86.86134,
+    12.51367
+],
+  "geometry": {"coordinates":[-86.86134,12.51367],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.0914,12.86403,-84.0914,12.86403",
+    "geom:latitude":12.86403,
+    "geom:longitude":-84.0914,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3620621: name \"El Torro Negro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3620621"
+        },
+        {
+            "citation":"GeoNames populated place 3620621: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3620621"
+        },
+        {
+            "citation":"GeoNames populated place 3620621: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3620621"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693877 (La Cruz De Rio Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675467,
+        102191575,
+        1108693877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620621
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"55c42315af5de3cdd254ae9fc63986fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693877,
+            "locality_id":9895050525,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":9895050525,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Torro Negro",
+    "wof:parent_id":1108693877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.0914,
+    12.86403,
+    -84.0914,
+    12.86403
+],
+  "geometry": {"coordinates":[-84.0914,12.86403],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895092440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.10148,14.78971,-84.10148,14.78971",
+    "geom:latitude":14.78971,
+    "geom:longitude":-84.10148,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3620271: name \"Corinto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3620271"
+        },
+        {
+            "citation":"GeoNames populated place 3620271: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3620271"
+        },
+        {
+            "citation":"GeoNames populated place 3620271: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3620271"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675485 (Atl\u00e1ntico Norte), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675485,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620271
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fb848e29ab6c5bd221b5386b6d252c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "locality_id":9895092440,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":9895092440,
+    "wof:lastmodified":1795746221,
+    "wof:name":"Corinto",
+    "wof:parent_id":85675485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.10148,
+    14.78971,
+    -84.10148,
+    14.78971
+],
+  "geometry": {"coordinates":[-84.10148,14.78971],"type":"Point"}
+}

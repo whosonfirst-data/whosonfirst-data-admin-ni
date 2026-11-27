@@ -1,0 +1,74 @@
+{
+  "id": 9895050550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.86504,13.17952,-86.86504,13.17952",
+    "geom:latitude":13.17952,
+    "geom:longitude":-86.86504,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11675835: name \"Llano El Jicaral\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11675835"
+        },
+        {
+            "citation":"GeoNames populated place 11675835: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11675835"
+        },
+        {
+            "citation":"GeoNames populated place 11675835: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11675835"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421185081 (Cinco Pinos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675503,
+        102191575,
+        421185081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11675835
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0284d477fa38fdd5ed0d71efa18cb123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421185081,
+            "locality_id":9895050550,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":9895050550,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Llano El Jicaral",
+    "wof:parent_id":421185081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.86504,
+    13.17952,
+    -86.86504,
+    13.17952
+],
+  "geometry": {"coordinates":[-86.86504,13.17952],"type":"Point"}
+}

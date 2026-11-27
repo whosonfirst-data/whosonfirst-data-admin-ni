@@ -1,0 +1,74 @@
+{
+  "id": 9895050470,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.68545,14.6392,-83.68545,14.6392",
+    "geom:latitude":14.6392,
+    "geom:longitude":-83.68545,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3615636: name \"Yulnata\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3615636"
+        },
+        {
+            "citation":"GeoNames populated place 3615636: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3615636"
+        },
+        {
+            "citation":"GeoNames populated place 3615636: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3615636"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693673 (Waspam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675485,
+        102191575,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615636
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"829e89cef78c52887a8f48423f0aea89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":9895050470,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":9895050470,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Yulnata",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.68545,
+    14.6392,
+    -83.68545,
+    14.6392
+],
+  "geometry": {"coordinates":[-83.68545,14.6392],"type":"Point"}
+}

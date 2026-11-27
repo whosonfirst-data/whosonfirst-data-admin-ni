@@ -1,0 +1,74 @@
+{
+  "id": 9895050475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.0045,13.1381,-86.0045,13.1381",
+    "geom:latitude":13.1381,
+    "geom:longitude":-86.0045,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3615900: name \"Apan\u00e1s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3615900"
+        },
+        {
+            "citation":"GeoNames populated place 3615900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3615900"
+        },
+        {
+            "citation":"GeoNames populated place 3615900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3615900"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693695 (Jinotega), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675481,
+        102191575,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615900
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5c147b408325066ad8f7382a653e0b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":9895050475,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":9895050475,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Apan\u00e1s",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.0045,
+    13.1381,
+    -86.0045,
+    13.1381
+],
+  "geometry": {"coordinates":[-86.0045,13.1381],"type":"Point"}
+}

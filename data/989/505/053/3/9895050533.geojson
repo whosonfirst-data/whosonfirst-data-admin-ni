@@ -1,0 +1,74 @@
+{
+  "id": 9895050533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.37466,11.66998,-86.37466,11.66998",
+    "geom:latitude":11.66998,
+    "geom:longitude":-86.37466,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8016995: name \"La Riviera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8016995"
+        },
+        {
+            "citation":"GeoNames populated place 8016995: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8016995"
+        },
+        {
+            "citation":"GeoNames populated place 8016995: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8016995"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693793 (Diriamba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675471,
+        102191575,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016995
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e2941b8cb50adbbfd2d9ac05dff413fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":9895050533,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":9895050533,
+    "wof:lastmodified":1795735085,
+    "wof:name":"La Riviera",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.37466,
+    11.66998,
+    -86.37466,
+    11.66998
+],
+  "geometry": {"coordinates":[-86.37466,11.66998],"type":"Point"}
+}

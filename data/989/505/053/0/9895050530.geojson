@@ -1,0 +1,74 @@
+{
+  "id": 9895050530,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.37156,13.5903,-86.37156,13.5903",
+    "geom:latitude":13.5903,
+    "geom:longitude":-86.37156,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3620890: name \"Apamiguel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3620890"
+        },
+        {
+            "citation":"GeoNames populated place 3620890: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3620890"
+        },
+        {
+            "citation":"GeoNames populated place 3620890: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3620890"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693709 (Mosonte), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675517,
+        102191575,
+        1108693709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620890
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"27e16b8a4af944cf4ff79375e33b33ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693709,
+            "locality_id":9895050530,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":9895050530,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Apamiguel",
+    "wof:parent_id":1108693709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.37156,
+    13.5903,
+    -86.37156,
+    13.5903
+],
+  "geometry": {"coordinates":[-86.37156,13.5903],"type":"Point"}
+}

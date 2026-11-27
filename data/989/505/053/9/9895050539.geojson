@@ -1,0 +1,74 @@
+{
+  "id": 9895050539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18474,11.73328,-86.18474,11.73328",
+    "geom:latitude":11.73328,
+    "geom:longitude":-86.18474,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8308782: name \"El Gigante\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8308782"
+        },
+        {
+            "citation":"GeoNames populated place 8308782: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8308782"
+        },
+        {
+            "citation":"GeoNames populated place 8308782: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8308782"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693797 (La Conquista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675471,
+        102191575,
+        1108693797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308782
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f6bdef41d8b77b33edc7d0d3b8437765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693797,
+            "locality_id":9895050539,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":9895050539,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Gigante",
+    "wof:parent_id":1108693797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18474,
+    11.73328,
+    -86.18474,
+    11.73328
+],
+  "geometry": {"coordinates":[-86.18474,11.73328],"type":"Point"}
+}

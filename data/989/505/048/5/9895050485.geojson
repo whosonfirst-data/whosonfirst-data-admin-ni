@@ -1,0 +1,74 @@
+{
+  "id": 9895050485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.21688,13.40502,-86.21688,13.40502",
+    "geom:latitude":13.40502,
+    "geom:longitude":-86.21688,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3617046: name \"El Robledar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3617046"
+        },
+        {
+            "citation":"GeoNames populated place 3617046: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3617046"
+        },
+        {
+            "citation":"GeoNames populated place 3617046: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3617046"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693723 (Telpaneca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675511,
+        102191575,
+        1108693723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617046
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1965add3cb0333a13ba6ac3468a77bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693723,
+            "locality_id":9895050485,
+            "region_id":85675511
+        }
+    ],
+    "wof:id":9895050485,
+    "wof:lastmodified":1795735085,
+    "wof:name":"El Robledar",
+    "wof:parent_id":1108693723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.21688,
+    13.40502,
+    -86.21688,
+    13.40502
+],
+  "geometry": {"coordinates":[-86.21688,13.40502],"type":"Point"}
+}

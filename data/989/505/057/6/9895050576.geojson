@@ -1,0 +1,74 @@
+{
+  "id": 9895050576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.71643,11.31722,-85.71643,11.31722",
+    "geom:latitude":11.31722,
+    "geom:longitude":-85.71643,
+    "iso:country":"NI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12501529: name \"Urbanato\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12501529"
+        },
+        {
+            "citation":"GeoNames populated place 12501529: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12501529"
+        },
+        {
+            "citation":"GeoNames populated place 12501529: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12501529"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421197835 (Rivas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599,
+        85675461,
+        102191575,
+        421197835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12501529
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a0352652c90e7cde43ebbbac37b3c289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197835,
+            "locality_id":9895050576,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":9895050576,
+    "wof:lastmodified":1795735085,
+    "wof:name":"Urbanato",
+    "wof:parent_id":421197835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.71643,
+    11.31722,
+    -85.71643,
+    11.31722
+],
+  "geometry": {"coordinates":[-85.71643,11.31722],"type":"Point"}
+}
